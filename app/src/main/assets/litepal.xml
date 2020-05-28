@@ -1,0 +1,9 @@
+<litepal>
+    <dbname	value="lv_you"	/>
+    <version	value="1"	/>
+    <list>
+        <mapping	class="com.lvyou.db.Province"	/>
+        <mapping	class="com.lvyou.db.City"	/>
+        <mapping	class="com.lvyou.db.County"	/>
+    </list>
+</litepal>
